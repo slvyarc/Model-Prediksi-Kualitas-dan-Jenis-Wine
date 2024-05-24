@@ -33,8 +33,8 @@ Wine Quality Dataset digunakan dalam proyek ini dan dapat diunduh dari [UCI Mach
     - Matriks Kebingungan
     - Scatter Plot
 
-    ```
-
 ## Hasil
 
 Proyek ini menunjukkan bahwa dengan pendekatan yang tepat, kita bisa membangun model machine learning yang efektif untuk prediksi multiple output. Keras Functional API memberikan fleksibilitas yang dibutuhkan untuk mengembangkan model seperti ini, dan dengan evaluasi yang tepat, kita bisa memastikan bahwa model yang dibangun memiliki performa yang baik dan dapat diandalkan.
+
+Untuk penjelasan lengkap tentang proyek ini, kunjungi artikel Medium saya: Membangun Model Machine Learning dengan Multiple Output Menggunakan Keras Functional API: Studi Kasus Prediksi Kualitas dan Jenis Wine.
