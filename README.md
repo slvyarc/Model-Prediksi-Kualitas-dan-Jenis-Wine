@@ -3,7 +3,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk membangun model machine learning yang mampu memprediksi multiple output menggunakan Keras Functional API. Kami menggunakan Wine Quality Dataset dari UCI Machine Learning Repository untuk memprediksi kualitas dan jenis wine. Proyek ini menyoroti pentingnya penggunaan model dengan multiple output dalam meningkatkan efisiensi dan performa prediksi.
+Proyek ini bertujuan untuk membangun model machine learning yang mampu memprediksi multiple output menggunakan Keras Functional API. saya menggunakan Wine Quality Dataset dari UCI Machine Learning Repository untuk memprediksi kualitas dan jenis wine. Proyek ini menyoroti pentingnya penggunaan model dengan multiple output dalam meningkatkan efisiensi dan performa prediksi.
 
 ## Dataset
 
